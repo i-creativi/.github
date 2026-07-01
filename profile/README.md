@@ -21,7 +21,7 @@ Costruiamo prodotti digitali su misura, dal primo pixel alla query del database.
 Progettazione, realizzazione e manutenzione di impianti elettrici per
 residenziale, terziario e industria. Quadri, fotovoltaico e accumulo, ricarica
 veicoli elettrici, building automation, illuminotecnica, sicurezza. A norma
-DM 37/08 e CEI 64-8.
+DM 37/08 e CEI 64-8. *(presto online con uno spazio dedicato)*
 
 Due mestieri diversi, la stessa cura per i dettagli.
 
@@ -38,6 +38,6 @@ usati in produzione da centinaia di negozi online.
 
 📍 Milano, Italia
 ✉️ [info@i-creativi.com](mailto:info@i-creativi.com)
-🌐 [i-creativi.studio](https://i-creativi.studio) · [i-creativi.com](https://i-creativi.com)
+🌐 [i-creativi.com](https://i-creativi.com)
 
 <sub>i-creativi s.r.l.s. · P.IVA 08673460963</sub>
